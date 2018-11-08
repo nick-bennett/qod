@@ -11,4 +11,5 @@ public class QodApplication {
   public static void main(String[] args) {
     SpringApplication.run(QodApplication.class, args);
   }
+
 }
